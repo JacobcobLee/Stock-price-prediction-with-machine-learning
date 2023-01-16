@@ -1,0 +1,14 @@
+Been studying AI and machine learning for almost half a year now and am beginning to see plateu around learning pipelines and automations. So i decided
+to just jump head into projects and try to learn as much as i can.
+
+nobody is probably even going to read this lmao but i might be famous one day😎
+
+Anywhos. This project is from a code along
+https://www.youtube.com/watch?v=1O_BenficgE
+im not that smart, YET.
+
+Some insights gained:
+- learning how EDA is done. How to use charts and plots to visualise my data so i can understand it.
+- Data cleaning is not as tedious as in practice...
+- take note of time series data and not to use cross validation as it can use future data to predict past values and thats a nono
+- bad practice to force commit but i was lazy to pull and then recommit.
